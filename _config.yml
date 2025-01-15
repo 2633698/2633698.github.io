@@ -65,7 +65,7 @@ gitalk:
   ClientSecret: ba73f9f9bda3a713e8e8316cb83189ef5e4bce96 #Client Secret，填入上一步获取的ID
   repo: 2633698.github.io #你要存放的项目名,如果博客部署在github可以放一起
   owner: 2633698 #这个项目名的拥有者（GitHub账号或组织）
-  adminUser: [2633698] #管理员用户
+  adminUser: ['2633698'] #管理员用户
   ID: location.pathname #页面ID
   labels: ['Gitalk'] #GitHub issues的标签
   perPage: 10 #每页多少个评论
@@ -74,13 +74,6 @@ gitalk:
   distractionFreeMode: true #是否启用快捷键(cmd|ctrl + enter) 提交评论
 # 统计
 
-# Analytics settings
-# Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
-
-# Google Analytics
-# ga_track_id: 'UA-124497414-1'            # Format: UA-xxxxxx-xx
-#ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
