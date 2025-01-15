@@ -1,30 +1,28 @@
 # Site settings
-title: Fujishiro Otone
-SEOTitle: Otoneの小屋
-header-img: img/index.jpg
-email: kurumi.zsy@gmail.com
-description: "青春如遊戲，只是不能再讀檔"
-keyword: "Otone, Otone Blog, 前端, 动漫, 游戏"
-url: "http://FujishiroOtone.github.io"          # your host, for absolute URL
+title: silaizhe
+SEOTitle: silaizhe的博客 | silaizhe's blog
+header-img: img/index.png
+email: wuchenlang244@gmail.com
+description: ""
+keyword: "电气 ,动画, 游戏"
+url: "http://2633698.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/FujishiroOtone/FujishiroOtone.github.io" # you code repository
+github_repo: "https://github.com/2633698/2633698.github.io" # you code repository
 home_repo: "http://fujishiro.cn"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "大切な人といつかまた巡り会えますように"
-sidebar-avatar: /img/about-Otone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: ""
+sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     _Otone
+weibo_username:     
 #zhihu_username:     
-github_username:    FujishiroOtone
-#facebook_username: 
-jianshu_username:  3bf62aac1afc
-twitter_username:   osuHatsuneMiku
+github_username:    2633698
+
 
 
 
@@ -58,16 +56,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: otone
+# disqus_username: silaizhe
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 1628acd4584b56ed9b40                            #生成的clientID
   clientSecret: 16b70af1ac573e1609bb84a604b4504a18cf7bcd    #生成的clientSecret
-  repo: FujishiroOtone.github.io    #仓库名称
-  owner: FujishiroOtone    #github用户名
-  admin: FujishiroOtone
+  repo: 2633698.github.io    #仓库名称
+  owner: 2633698    #github用户名
+  admin: 2633698
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -79,7 +77,7 @@ gitalk:
 
 # Google Analytics
 ga_track_id: 'UA-124497414-1'            # Format: UA-xxxxxx-xx
-ga_domain: blog.fujishiro.cn               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -100,22 +98,7 @@ service-worker: true
 # links
 links: [
     {
-        title: "个人のGitHub",
-        href: "https://github.com/FujishiroOtone	"
-    },{
-        title: "简书·Otone",
-        href: "https://www.jianshu.com/u/3bf62aac1afc"
-    },{
-        title: "Twitter",
-        href: "https://twitter.com/osuHatsuneMiku"
-    },{
-        title: "个人のbilibili",
-        href: "https://space.bilibili.com/1880573/#/"
-    },{
-        title: "asdfv1929",
-        href: "https://asdfv1929.github.io/"
-    },{
-        title: "月小水长",
-        href: "https://inspurer.github.io/"
+        title: "个人GitHub",
+        href: "https://github.com/2633698	"
     }
 ]
